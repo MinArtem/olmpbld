@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "olmpbld",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "4e5061a3-7506-42ff-837a-0b91c39e4712",
+			"database_name": "alwdse"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
